@@ -1,0 +1,7 @@
+E:\Learning\DataStructure\DataStructure\SelectionSorr\bin\Debug\SelectionSorr.exe.config
+E:\Learning\DataStructure\DataStructure\SelectionSorr\bin\Debug\SelectionSorr.exe
+E:\Learning\DataStructure\DataStructure\SelectionSorr\bin\Debug\SelectionSorr.pdb
+E:\Learning\DataStructure\DataStructure\SelectionSorr\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+E:\Learning\DataStructure\DataStructure\SelectionSorr\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+E:\Learning\DataStructure\DataStructure\SelectionSorr\obj\Debug\SelectionSorr.exe
+E:\Learning\DataStructure\DataStructure\SelectionSorr\obj\Debug\SelectionSorr.pdb
