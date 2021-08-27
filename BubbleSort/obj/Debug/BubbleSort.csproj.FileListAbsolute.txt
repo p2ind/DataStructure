@@ -1,0 +1,6 @@
+E:\Learning\DataStructure\DataStructure\BubbleSort\bin\Debug\BubbleSort.exe.config
+E:\Learning\DataStructure\DataStructure\BubbleSort\bin\Debug\BubbleSort.exe
+E:\Learning\DataStructure\DataStructure\BubbleSort\bin\Debug\BubbleSort.pdb
+E:\Learning\DataStructure\DataStructure\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+E:\Learning\DataStructure\DataStructure\BubbleSort\obj\Debug\BubbleSort.exe
+E:\Learning\DataStructure\DataStructure\BubbleSort\obj\Debug\BubbleSort.pdb
