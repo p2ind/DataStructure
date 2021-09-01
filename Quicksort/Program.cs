@@ -10,6 +10,13 @@ namespace Quicksort
     {
         static void Main(string[] args)
         {
+            int[] ArrayValues = new int[9] { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
+            QuickSort.Sort<int>(ArrayValues);
+            Console.WriteLine(string.Join(" | ", ArrayValues));
+            Console.ReadKey();
+
+
+            string s = "";
         }
     }
 }

@@ -1,0 +1,7 @@
+E:\Learning\DataStructure\DataStructure\Quicksort\bin\Debug\Quicksort.exe.config
+E:\Learning\DataStructure\DataStructure\Quicksort\bin\Debug\Quicksort.exe
+E:\Learning\DataStructure\DataStructure\Quicksort\bin\Debug\Quicksort.pdb
+E:\Learning\DataStructure\DataStructure\Quicksort\obj\Debug\Quicksort.csprojAssemblyReference.cache
+E:\Learning\DataStructure\DataStructure\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+E:\Learning\DataStructure\DataStructure\Quicksort\obj\Debug\Quicksort.exe
+E:\Learning\DataStructure\DataStructure\Quicksort\obj\Debug\Quicksort.pdb
